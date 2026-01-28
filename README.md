@@ -5,7 +5,7 @@ This project demonstrates anomaly detection on a simulated data stream using an 
 
 The goal of the project is to show how anomalous data points can be detected in sequential data for monitoring and analysis purposes.
 
----
+
 
 ## Problem Statement
 In many systems, data follows recurring patterns with occasional irregular behavior caused by errors, unexpected events, or unusual conditions. Detecting these anomalies is important for understanding data behavior and identifying potential issues.
@@ -15,7 +15,6 @@ This project focuses on:
 - Detecting anomalies without labeled data
 - Visualizing abnormal data points for interpretation
 
----
 
 ## Approach
 
@@ -37,7 +36,6 @@ This project focuses on:
 - Highlighted detected anomalies using scatter points
 - Enabled visual interpretation of abnormal behavior
 
----
 
 ## Tools & Technologies
 - Python
@@ -45,7 +43,6 @@ This project focuses on:
 - Scikit-learn (Isolation Forest)
 - Matplotlib
 
----
 
 ## Use Cases
 - Monitoring sequential or time-based data
@@ -53,12 +50,10 @@ This project focuses on:
 - Detecting abnormal behavior in generated or collected signals
 - Exploratory anomaly detection analysis
 
----
 
 ## Outcome
 The project demonstrates how unsupervised machine learning techniques such as Isolation Forest can be applied to sequential data to detect anomalies. It provides a clear example of data simulation, anomaly detection, and visualization in a single workflow.
 
----
 
 ## Author
 Fadime Durna
